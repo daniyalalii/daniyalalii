@@ -13,6 +13,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=daniyalalii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalalii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Daniyal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daniyalalii&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=daniyalalii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
